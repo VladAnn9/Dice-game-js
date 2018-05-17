@@ -1,7 +1,7 @@
 # Dice-game-js
 Great Dice game 
 
-<!-- MAIN RULES -->
+       MAIN RULES
 <!-- ************************************************* -->
 - The game has 2 players, playing in rounds
 - In each turn, a player rolls a dices as many times as he whishes. Each result get added to his ROUND score from two dices.
